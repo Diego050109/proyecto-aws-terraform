@@ -1,17 +1,11 @@
-# ======================
-# Terraform (NUNCA subir)
-# ======================
+# Terraform
 terraform/.terraform/
 terraform/terraform.tfstate
 terraform/terraform.tfstate.backup
 
-# ======================
-# Node.js
-# ======================
+# Node
 node_modules/
 
-# ======================
-# Sistema Operativo
-# ======================
+# OS
 .DS_Store
 Thumbs.db
