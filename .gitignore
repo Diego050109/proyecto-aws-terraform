@@ -1,0 +1,17 @@
+# ======================
+# Terraform (NUNCA subir)
+# ======================
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+
+# ======================
+# Node.js
+# ======================
+node_modules/
+
+# ======================
+# Sistema Operativo
+# ======================
+.DS_Store
+Thumbs.db
